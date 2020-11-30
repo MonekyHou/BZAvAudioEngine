@@ -1,5 +1,5 @@
 # BZAvAudioEngine
-AvAudioEngine录音播放，
+AvAudioEngine录音播放，简易播放器
 播放本地文件，buffer播放，buffer数据简单处理
 
 网易云鲸云动画免费版，后续添加其他效果
